@@ -1,0 +1,21 @@
+body{
+  font-family: 'Roboto', sans-serif;
+  margin-left:5%;
+}
+
+#startButton{
+  background-color: white;
+  color:#1E37FF;
+  border: 1px solid #1E37FF;
+  padding: 10px 10px;
+  margin-top: 10px;
+}
+
+.yogaPoseImage {
+  height:100%;
+  width:100%;
+}
+
+h1{
+  color: #FF3DED; 
+}
